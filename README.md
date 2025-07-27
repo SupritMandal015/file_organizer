@@ -54,4 +54,4 @@ The script classifies files into:
 ### 2️⃣ Run the python script 
 
 ```bash
-python auto_file_sorter.py
+python file_sorter.py
