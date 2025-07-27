@@ -51,6 +51,10 @@ The script classifies files into:
 
 ### 1️⃣ Clone the repository or copy the script
 
+```bash
+git clone https://github.com/SupritMandal015/file_organizer.git
+```
+
 ### 2️⃣ Run the python script 
 
 ```bash
